@@ -3,21 +3,10 @@
 ||googleusercontent.com
 ||googleapis.com
 
-# steam
-||steamcommunity.com
-||steampowered.com
-||steamstatic.com
-
 # github
 ||github.com
 ||githubassets.com
 ||githubusercontent.com
-
-# steamdb
-||steamdb.info
-
-# cdkeyprices
-||cdkeyprices.com
 
 # youtube
 ||youtube.com
@@ -25,9 +14,25 @@
 # paypal
 ||paypal.com
 
-# difmark
-||difmark.com
-
 # facebook
 ||facebook.net
 ||m-face-book.com
+
+# -------------------- game --------------------
+# steam
+||steamcommunity.com
+||steampowered.com
+||steamstatic.com
+
+# steamdb
+||steamdb.info
+
+# cdkeyprices
+||cdkeyprices.com
+
+# difmark
+||difmark.com
+
+# greenmangaming
+||greenmangaming.com
+# -------------------- game --------------------
