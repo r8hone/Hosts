@@ -27,8 +27,9 @@
 # twitter
 ||twitter.com
 
-# redditstatic
+# reddit
 ||redditstatic.com
+||reddit.com
 
 # cloudflare
 ||cloudflare.com
