@@ -30,6 +30,9 @@
 # redditstatic
 ||redditstatic.com
 
+# cloudflare
+||cloudflare.com
+
 # -------------------- game --------------------
 # steam
 ||steamcommunity.com
