@@ -26,6 +26,7 @@
 
 # twitter
 ||twitter.com
+||ads-twitter.com
 
 # reddit
 ||redditstatic.com
@@ -33,6 +34,9 @@
 
 # cloudflare
 ||cloudflare.com
+
+# algolia
+||algolia.net
 
 # -------------------- game --------------------
 # steam
