@@ -2,23 +2,31 @@
 ||google.com
 ||googleusercontent.com
 ||googleapis.com
+
 # steam
 ||steamcommunity.com
 ||steampowered.com
 ||steamstatic.com
+
 # github
 ||github.com
 ||githubassets.com
+
 # steamdb
 ||steamdb.info
+
 # cdkeyprices
 ||cdkeyprices.com
+
 # youtube
 ||youtube.com
+
 # paypal
 ||paypal.com
+
 # difmark
 ||difmark.com
+
 # facebook
 ||facebook.net
 ||m-face-book.com
