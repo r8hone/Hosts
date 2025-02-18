@@ -42,6 +42,9 @@
 # fpcdn
 ||fpcdn.io
 
+# useinsider
+||useinsider.com
+
 # -------------------- game --------------------
 # steam
 ||steamcommunity.com
