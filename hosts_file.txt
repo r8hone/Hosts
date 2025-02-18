@@ -18,6 +18,9 @@
 ||facebook.net
 ||m-face-book.com
 
+tiqcdn
+||tiqcdn.com
+
 # -------------------- game --------------------
 # steam
 ||steamcommunity.com
