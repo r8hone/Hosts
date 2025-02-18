@@ -21,6 +21,15 @@
 # tiqcdn
 ||tiqcdn.com
 
+# tiktok
+||tiktok.com
+
+# twitter
+||twitter.com
+
+# redditstatic
+||redditstatic.com
+
 # -------------------- game --------------------
 # steam
 ||steamcommunity.com
