@@ -2,6 +2,7 @@
 ||google.com
 ||googleusercontent.com
 ||googleapis.com
+||googletagmanager.com
 
 # github
 ||github.com
@@ -37,6 +38,9 @@
 
 # algolia
 ||algolia.net
+
+# fpcdn
+||fpcdn.io
 
 # -------------------- game --------------------
 # steam
