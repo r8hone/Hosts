@@ -51,6 +51,7 @@
 
 # openai
 ||openai.com
+||chatgpt.com
 
 # -------------------- game --------------------
 # steam
