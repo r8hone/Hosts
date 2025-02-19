@@ -17,6 +17,7 @@
 
 # facebook
 ||facebook.net
+||facebook.com
 ||m-face-book.com
 
 # tiqcdn
@@ -41,6 +42,9 @@
 
 # fpcdn
 ||fpcdn.io
+
+# nitrocdn
+||nitrocdn.com
 
 # useinsider
 ||useinsider.com
