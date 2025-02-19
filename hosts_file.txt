@@ -49,6 +49,9 @@
 # useinsider
 ||useinsider.com
 
+# openai
+||openai.com
+
 # -------------------- game --------------------
 # steam
 ||steamcommunity.com
