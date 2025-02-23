@@ -37,6 +37,9 @@
 # tiqcdn
 ||tiqcdn.com
 
+# rlcdn
+||rlcdn.com
+
 # tiktok
 ||tiktok.com
 
