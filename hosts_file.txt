@@ -71,4 +71,7 @@
 
 # greenmangaming
 ||greenmangaming.com
+
+# cdkeys
+|cdkeys.com
 # -------------------- game --------------------
