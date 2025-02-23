@@ -4,19 +4,6 @@
 ||googleusercontent.com
 ||googleapis.com
 ||googletagmanager.com
-||google.com.tw
-
-# zdassets
-||zdassets.com
-
-# rfihub
-||rfihub.com
-
-# dwin1
-||dwin1.com
-
-# prodregistryv2
-||prodregistryv2.org
 
 # github
 ||github.com
@@ -36,9 +23,6 @@
 
 # tiqcdn
 ||tiqcdn.com
-
-# rlcdn
-||rlcdn.com
 
 # tiktok
 ||tiktok.com
@@ -87,7 +71,4 @@
 
 # greenmangaming
 ||greenmangaming.com
-
-# cdkeys
-||cdkeys.com
 # -------------------- game --------------------
