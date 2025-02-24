@@ -21,9 +21,6 @@
 ||facebook.com
 ||m-face-book.com
 
-# tiqcdn
-||tiqcdn.com
-
 # tiktok
 ||tiktok.com
 
@@ -41,18 +38,26 @@
 # algolia
 ||algolia.net
 
-# fpcdn
-||fpcdn.io
-
-# nitrocdn
-||nitrocdn.com
-
 # useinsider
 ||useinsider.com
 
 # openai
 ||openai.com
 ||chatgpt.com
+
+# -------------------- cdn --------------------
+# fbcdn
+||fbcdn.net
+
+# tiqcdn
+||tiqcdn.com
+
+# nitrocdn
+||nitrocdn.com
+
+# fpcdn
+||fpcdn.io
+# -------------------- cdn --------------------
 
 # -------------------- game --------------------
 # steam
