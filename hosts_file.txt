@@ -41,6 +41,9 @@
 # useinsider
 ||useinsider.com
 
+# pinimg
+||pinimg.com
+
 # openai
 ||openai.com
 ||chatgpt.com
