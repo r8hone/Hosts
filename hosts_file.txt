@@ -13,9 +13,6 @@
 # youtube
 ||youtube.com
 
-# paypal
-||paypal.com
-
 # facebook
 ||facebook.net
 ||facebook.com
