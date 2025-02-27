@@ -73,4 +73,7 @@
 
 # difmark
 ||difmark.com
+
+# greenmangaming
+||greenmangaming.com
 # -------------------- game --------------------
