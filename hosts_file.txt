@@ -6,6 +6,7 @@
 ||googletagmanager.com
 ||googlevideo.com
 ||ggpht.com
+||ytimg.com
 
 # github
 ||github.com
@@ -42,9 +43,6 @@
 
 # pinimg
 ||pinimg.com
-
-# ytimg.com
-||ytimg.com
 
 # openai
 ||openai.com
