@@ -42,6 +42,9 @@
 # pinimg
 ||pinimg.com
 
+# ytimg.com
+||ytimg.com
+
 # openai
 ||openai.com
 ||chatgpt.com
