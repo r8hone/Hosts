@@ -5,6 +5,7 @@
 ||googleapis.com
 ||googletagmanager.com
 ||googlevideo.com
+||ggpht.com
 
 # github
 ||github.com
