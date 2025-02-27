@@ -4,6 +4,7 @@
 ||googleusercontent.com
 ||googleapis.com
 ||googletagmanager.com
+||googlevideo.com
 
 # github
 ||github.com
