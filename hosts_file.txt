@@ -41,7 +41,7 @@
 # useinsider
 ||useinsider.com
 
-# pinimg
+# Pinterest
 ||pinimg.com
 
 # openai
