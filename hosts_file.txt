@@ -1,6 +1,7 @@
 # google
 ||google.com
 ||google.com.hk
+||google.co.uk
 ||googleusercontent.com
 ||googleapis.com
 ||googletagmanager.com
