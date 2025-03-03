@@ -87,6 +87,9 @@
 # difmark
 ||difmark.com
 
+# eneba
+||eneba.com
+
 # greenmangaming
 ||greenmangaming.com
 # -------------------- game --------------------
