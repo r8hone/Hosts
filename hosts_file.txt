@@ -8,6 +8,7 @@
 ||googlevideo.com
 ||ggpht.com
 ||ytimg.com
+||gpstatic.com
 
 # github
 ||github.com
