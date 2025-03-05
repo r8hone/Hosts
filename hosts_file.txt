@@ -9,6 +9,7 @@
 ||ggpht.com
 ||ytimg.com
 ||gpstatic.com
+||gstatic.com
 
 # github
 ||github.com
