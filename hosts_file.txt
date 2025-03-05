@@ -97,4 +97,7 @@
 
 # allkeyshop
 ||allkeyshop.com
+
+# 2game
+||2game.com
 # -------------------- game --------------------
