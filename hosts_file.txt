@@ -92,9 +92,6 @@
 # eneba
 ||eneba.games
 
-# greenmangaming
-||greenmangaming.com
-
 # allkeyshop
 ||allkeyshop.com
 
