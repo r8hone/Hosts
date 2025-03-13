@@ -97,4 +97,7 @@
 
 # 2game
 ||2game.com
+
+# isthereanydeal
+||isthereanydeal.com
 # -------------------- game --------------------
